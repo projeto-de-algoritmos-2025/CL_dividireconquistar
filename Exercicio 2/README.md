@@ -29,3 +29,7 @@ Difícil
 ![image](https://github.com/user-attachments/assets/ae5d6b72-a99d-4326-9e5f-70654d1d41af)
 
 ## Submissões
+
+![image](https://github.com/user-attachments/assets/ce8dacc2-29a7-4876-9948-35edc6290057)
+
+![image](https://github.com/user-attachments/assets/a1823b74-46b6-4c80-9c4f-f7ecc4873dc2)
