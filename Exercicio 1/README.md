@@ -30,3 +30,6 @@ Média
 
 ## Submissões
 
+![image](https://github.com/user-attachments/assets/69cd26c0-44ee-460a-903e-32835893619f)
+
+![image](https://github.com/user-attachments/assets/7a2922ef-5e43-4722-806f-9cfddeb0fa00)
