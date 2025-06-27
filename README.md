@@ -28,7 +28,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | :--: | -- | :--: | -- |
 | 1 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=niwvp8tg) | Média | Lucas Ribeiro de Souza |
 | 2 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=niwvp8tg) | Difícil | Lucas Ribeiro de Souza |
-| 3 |  | Média | João Víctor Costa Andrade |
+| 3 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)| Média | João Víctor Costa Andrade |
 | 4 |  | Difícil | João Víctor Costa Andrade |
 
 ## Gravação
