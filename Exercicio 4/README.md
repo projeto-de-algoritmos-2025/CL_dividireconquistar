@@ -12,7 +12,7 @@ Média
 
 ## Enunciado
 
-![image](https://github.com/user-attachments/assets/2126a90d-036d-489f-8d2d-97202619c7d1)
+![image](https://github.com/user-attachments/assets/6647e134-1100-435f-9593-607178c5024b)
 
 
 ## Submissões
